@@ -10,4 +10,4 @@ Why FAIR Principle is so important for data Now-a-days?
 5. How are you going to manage the data explosion that is occurring exponentially?
 
 
-![DT1 drawio](https://github.com/PayelPatra/FAIR_project/assets/75733533/54ad0280-ab4c-40aa-9345-6c14f2859039)
+![DT1 drawio](https://github.com/PayelPatra/FAIR_project/assets/75733533/1738dd70-48ac-4833-9d5a-5c568326e966)
