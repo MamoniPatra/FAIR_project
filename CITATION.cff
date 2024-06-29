@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this documents, please cite it as below."
+authors:
+- family-names: Payel
+  given-names: Patra
+orcid: https://orcid.org/0000-0002-4615-4211
+title:PayelPatra/FAIR_project: FAIR Principle initials
+version: 0.1.0
+date-released: 2024-06-28
+                                
